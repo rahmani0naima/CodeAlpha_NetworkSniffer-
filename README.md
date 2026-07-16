@@ -16,7 +16,8 @@ A Python-based network packet sniffer built with [Scapy](https://scapy.net/), av
 
 ## Screenshots
 
-*(add screenshots of the GUI here after your first run)*
+<img width="940" height="681" alt="image" src="https://github.com/user-attachments/assets/379ea6d9-1a5c-4b1d-809c-2c64c7d9159f" />
+
 
 ## Requirements
 
